@@ -3,7 +3,7 @@
   # Edo Sulaiman
 
   <a href="https://edosulai.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=560&height=45&lines=Building+AI-native+systems%2C+not+just+using+AI;Context+engineering+%C2%B7+Multi-agent+orchestration;Banking-grade+backend+%C2%B7+Distributed+contracts;3%2B+years+of+professional+experience+%C2%B7+4%2C300%2B+commits" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=560&height=45&lines=Building+AI-native+systems%2C+not+just+using+AI;Context+engineering+%C2%B7+Multi-agent+orchestration;Banking-grade+backend+%C2%B7+Distributed+contracts;~3+years+of+professional+experience+%C2%B7+4%2C300%2B+commits" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -17,7 +17,7 @@
 
 <br/>
 
-Full-stack engineer with 3+ years across banking-grade systems, now building AI-native operating models where AI is the primary executor end-to-end — not a side feature, not a chatbot layer, but the operational backbone.
+Full-stack engineer with ~3 years across banking-grade systems, now building AI-native operating models where AI is the primary executor end-to-end — not a side feature, not a chatbot layer, but the operational backbone.
 
 My path: self-taught foundations → high-scale finance systems (QLola, QCash, BRiSpot) → contract architecture and service alignment → AI-first systems where humans stay in ideation, judgment, and approval while AI handles execution, context continuity, and workflow orchestration.
 
