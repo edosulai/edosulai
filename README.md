@@ -3,7 +3,7 @@
   # Edo Sulaiman
 
   <a href="https://edosulai.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=560&height=45&lines=Building+AI-native+systems%2C+not+just+using+AI;Context+engineering+%C2%B7+Multi-agent+orchestration;Banking-grade+backend+%C2%B7+Distributed+contracts;~3+years+of+professional+experience+%C2%B7+4%2C300%2B+commits" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=560&height=45&lines=Full-stack+systems+engineer+%C2%B7+AI-integrated+architecture;Banking-grade+backend+%C2%B7+Distributed+contracts;Automation+pipelines+%C2%B7+Multi-agent+orchestration;~3+years+of+professional+experience+%C2%B7+4%2C300%2B+commits" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -17,9 +17,9 @@
 
 <br/>
 
-Full-stack engineer with ~3 years across banking-grade systems, now building AI-native operating models where AI is the primary executor end-to-end — not a side feature, not a chatbot layer, but the operational backbone.
+Full-stack engineer with ~3 years building banking-grade distributed systems, now applying that same rigor to AI-integrated architectures — automation pipelines, multi-agent orchestration, and developer tooling that let small teams ship like large ones.
 
-My path: self-taught foundations → high-scale finance systems (QLola, QCash, BRiSpot) → contract architecture and service alignment → AI-first systems where humans stay in ideation, judgment, and approval while AI handles execution, context continuity, and workflow orchestration.
+My path: self-taught foundations → high-scale finance systems (QLola, QCash, BRiSpot) → contract architecture and service alignment → AI-augmented workflows where automation handles the repetitive, and engineers focus on what matters.
 
 > *I build systems for a future where software is powerful enough to disappear.*
 
@@ -27,14 +27,14 @@ My path: self-taught foundations → high-scale finance systems (QLola, QCash, B
 
 ## What I Build Now
 
-Beyond vibe coding. I design and build **AI-native operating systems** — not prompting tools into existence, but architecting how AI agents orchestrate real workflows end-to-end.
+I design and build **production-grade backend systems and AI-integrated architectures** — from high-scale banking platforms to automation pipelines where AI handles orchestration end-to-end.
 
 ```
-Context Engineering     → persistent memory, source-of-truth architecture, cross-session continuity
-Multi-Agent Systems     → orchestrated AI agents with defined boundaries and handoff protocols
-AI Governance           → approval gates, consent-aware automation, human-in-the-loop at critical points
-Automation-First Design → CI/CD, sync pipelines, self-healing workflows where AI is the operator
-Source-of-Truth Systems → canonical data flows from private knowledge to public surfaces automatically
+Systems Architecture     → scalable backend design, service boundaries, contract-first development
+Automation & DevOps      → CI/CD pipelines, infrastructure-as-code, self-healing workflows
+AI Integration           → context engineering, multi-agent orchestration, LLM-powered tooling
+API & Data Design        → gRPC, protocol buffers, event-driven flows, canonical data architecture
+Developer Experience     → source-of-truth systems, sync pipelines, reproducible environments
 ```
 
 <br/>
@@ -55,7 +55,7 @@ Source-of-Truth Systems → canonical data flows from private knowledge to publi
   </picture>
 </div>
 
-**AI & Architecture:** Context engineering · Multi-agent orchestration · MCP servers · LLM integration · Prompt engineering · gRPC · Protocol Buffers · Microservices · Distributed contracts · Event-driven systems
+**Systems & AI:** gRPC · Protocol Buffers · Microservices · Distributed contracts · Event-driven systems · Context engineering · Multi-agent orchestration · LLM integration · CI/CD automation
 
 <br/>
 
