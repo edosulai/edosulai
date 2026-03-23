@@ -43,11 +43,9 @@ Developer Experience     → source-of-truth systems, sync pipelines, reproducib
 
 <div align="center">
 
-![Languages & Platforms](https://skillicons.dev/icons?i=go,ts,py,rust,react,nextjs,nodejs,docker,git,github&perline=10&theme=dark#gh-dark-mode-only)
-![Languages & Platforms](https://skillicons.dev/icons?i=go,ts,py,rust,react,nextjs,nodejs,docker,git,github&perline=10&theme=light#gh-light-mode-only)
+![Languages & Platforms](https://skillicons.dev/icons?i=go,ts,py,rust,react,nextjs,nodejs,docker,git,github&perline=10)
 
-![Data & Frameworks](https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,grafana,express,django,laravel,flutter,dart&perline=10&theme=dark#gh-dark-mode-only)
-![Data & Frameworks](https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,grafana,express,django,laravel,flutter,dart&perline=10&theme=light#gh-light-mode-only)
+![Data & Frameworks](https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,grafana,express,django,laravel,flutter,dart&perline=10)
 
 </div>
 
