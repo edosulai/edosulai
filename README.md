@@ -1,38 +1,29 @@
-# Hi coders, I'm Edo Sulai 👋 
+# Edo Sulaiman
 
-## I'm a Full-Stuck Bug Developer, sadly 😓
+I am a full-stack engineer with 3+ years of experience across banking and finance systems. My work sits at the intersection of implementation, integration, and architecture alignment, from secure transfer workflows to centralized service contracts and AI-first operating systems.
 
-- 🌱 Currently absorbing everything to enhance my bug-slaying skills!
-- 🥅 2025 Goal: Trying to end the vicious circle
-- ⚡ Fun fact: I'm tired of being a corporate slave
+## Focus Areas
 
-### 🌐 Come Closer to Me:
+- Banking-grade systems
+- Distributed contracts
+- Backend-heavy integration
+- Architecture alignment
+- AI-first operations
 
-[![website](./public/linkedin-light.svg)](https://linkedin.com/in/edosulaiman#gh-light-mode-only)
-[![website](./public/linkedin-dark.svg)](https://linkedin.com/in/edosulaiman#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./public/instagram-light.svg)](https://instagram.com/edosulai#gh-light-mode-only)
-[![website](./public/instagram-dark.svg)](https://instagram.com/edosulai#gh-dark-mode-only)
+## Selected Work
 
-### 💻 My Stuckmaker Toolbox:
+- **QLola / QCash** — Banking-grade cash-management systems
+- **BRiSpot / BNS** — Contract and integration alignment
+- **Kreditplus** — Migration-oriented backend engineering
 
-<img align="left" alt="TypeScript" width="26px" height="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />         
-<img align="left" alt="TailwindCSS" width="26px" height="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />         
-<img align="left" alt="StoryBook" width="26px" height="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />         
-<img align="left" alt="Webpack" width="26px" height="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />         
-<img align="left" alt="Go" width="26px" height="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-<img align="left" alt="Node.js" width="26px" height="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="MySQL" width="26px" height="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="PostgreSQL" width="26px" height="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="MongoDB" width="26px" height="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Redis" width="26px" height="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-<img align="left" alt="React" width="26px" height="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Next" width="26px" height="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="Express" width="26px" height="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<img align="left" alt="Bamboo" width="26px" height="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bamboo/bamboo-original.svg" />
-<img align="left" alt="Docker" width="26px" height="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Figma" width="26px" height="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="Python" width="26px" height="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Tensorflow" width="26px" height="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+## Connect
 
-<!-- https://github.com/devicons/devicon/tree/v2.16.0/icons -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-edosulaiman-blue?style=flat&logo=linkedin)](https://linkedin.com/in/edosulaiman)
+[![GitHub](https://img.shields.io/badge/GitHub-edosulai-333?style=flat&logo=github)](https://github.com/edosulai)
+[![Instagram](https://img.shields.io/badge/Instagram-edosulai-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/edosulai)
+[![Email](https://img.shields.io/badge/Email-edosulai%40icloud.com-blue?style=flat&logo=mail.ru)](mailto:edosulai@icloud.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-edosulai.github.io-black?style=flat&logo=vercel)](https://edosulai.github.io)
+
+---
+
+<sub>This README is auto-generated from [edo-knowledge](https://github.com/edosulai/edo-knowledge) (private).</sub>
