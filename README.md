@@ -41,23 +41,15 @@ Developer Experience     → source-of-truth systems, sync pipelines, reproducib
 
 ## Tech Stack
 
-<p align="center">
-  <a href="#-tech-stack">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,ts,py,rust,react,nextjs,nodejs,docker,git,github&perline=10&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go,ts,py,rust,react,nextjs,nodejs,docker,git,github&perline=10&theme=light" />
-      <img alt="Languages & Platforms" src="https://skillicons.dev/icons?i=go,ts,py,rust,react,nextjs,nodejs,docker,git,github&perline=10&theme=dark" />
-    </picture>
-  </a>
-  <br/>
-  <a href="#-tech-stack">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,grafana,express,django,laravel,flutter,dart&perline=10&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,grafana,express,django,laravel,flutter,dart&perline=10&theme=light" />
-      <img alt="Data & Frameworks" src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,grafana,express,django,laravel,flutter,dart&perline=10&theme=dark" />
-    </picture>
-  </a>
-</p>
+<div align="center">
+
+![Languages & Platforms](https://skillicons.dev/icons?i=go,ts,py,rust,react,nextjs,nodejs,docker,git,github&perline=10&theme=dark#gh-dark-mode-only)
+![Languages & Platforms](https://skillicons.dev/icons?i=go,ts,py,rust,react,nextjs,nodejs,docker,git,github&perline=10&theme=light#gh-light-mode-only)
+
+![Data & Frameworks](https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,grafana,express,django,laravel,flutter,dart&perline=10&theme=dark#gh-dark-mode-only)
+![Data & Frameworks](https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,grafana,express,django,laravel,flutter,dart&perline=10&theme=light#gh-light-mode-only)
+
+</div>
 
 **Systems & AI:** gRPC · Protocol Buffers · Microservices · Distributed contracts · Event-driven systems · Context engineering · Multi-agent orchestration · LLM integration · CI/CD automation
 
