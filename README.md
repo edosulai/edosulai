@@ -3,7 +3,7 @@
   # Edo Sulaiman
 
   <a href="https://edosulai.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=560&height=45&lines=Full-stack+systems+engineer+%C2%B7+AI-integrated+architecture;Banking-grade+backend+%C2%B7+Distributed+contracts;Automation+pipelines+%C2%B7+Multi-agent+orchestration;~3+years+of+professional+experience+%C2%B7+4%2C300%2B+commits" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full-stack+systems+engineer+%C2%B7+AI-integrated+architecture;Banking-grade+backend+%C2%B7+Distributed+contracts;Automation+pipelines+%C2%B7+Multi-agent+orchestration;~3+years+of+professional+experience+%C2%B7+4%2C300%2B+commits" alt="Typing SVG" />
   </a>
 
   <br/>
