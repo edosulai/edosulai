@@ -43,15 +43,15 @@ Developer Experience     → source-of-truth systems, sync pipelines, reproducib
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,ts,py,rust,react,nextjs,nodejs,docker,git,github&perline=10&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go,ts,py,rust,react,nextjs,nodejs,docker,git,github&perline=10&theme=light" />
-    <img alt="Languages & Platforms" src="https://skillicons.dev/icons?i=go,ts,py,rust,react,nextjs,nodejs,docker,git,github&perline=10&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go%2Cts%2Cpy%2Crust%2Creact%2Cnextjs%2Cnodejs%2Cdocker%2Cgit%2Cgithub&perline=10&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go%2Cts%2Cpy%2Crust%2Creact%2Cnextjs%2Cnodejs%2Cdocker%2Cgit%2Cgithub&perline=10&theme=light" />
+    <img alt="Languages & Platforms" src="https://skillicons.dev/icons?i=go%2Cts%2Cpy%2Crust%2Creact%2Cnextjs%2Cnodejs%2Cdocker%2Cgit%2Cgithub&perline=10&theme=dark" />
   </picture>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,grafana,express,django,laravel,flutter,dart&perline=10&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,grafana,express,django,laravel,flutter,dart&perline=10&theme=light" />
-    <img alt="Data & Frameworks" src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,grafana,express,django,laravel,flutter,dart&perline=10&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Credis%2Cmongodb%2Cmysql%2Cgrafana%2Cexpress%2Cdjango%2Claravel%2Cflutter%2Cdart&perline=10&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres%2Credis%2Cmongodb%2Cmysql%2Cgrafana%2Cexpress%2Cdjango%2Claravel%2Cflutter%2Cdart&perline=10&theme=light" />
+    <img alt="Data & Frameworks" src="https://skillicons.dev/icons?i=postgres%2Credis%2Cmongodb%2Cmysql%2Cgrafana%2Cexpress%2Cdjango%2Claravel%2Cflutter%2Cdart&perline=10&theme=dark" />
   </picture>
 </div>
 
