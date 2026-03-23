@@ -41,13 +41,23 @@ Developer Experience     → source-of-truth systems, sync pipelines, reproducib
 
 ## Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,py,rust,react,nextjs,nodejs,docker,git,github&perline=10&theme=dark#gh-dark-mode-only" alt="Languages & Platforms" />
-  <img src="https://skillicons.dev/icons?i=go,ts,py,rust,react,nextjs,nodejs,docker,git,github&perline=10&theme=light#gh-light-mode-only" alt="Languages & Platforms" />
+<p align="center">
+  <a href="#-tech-stack">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,ts,py,rust,react,nextjs,nodejs,docker,git,github&perline=10&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go,ts,py,rust,react,nextjs,nodejs,docker,git,github&perline=10&theme=light" />
+      <img alt="Languages & Platforms" src="https://skillicons.dev/icons?i=go,ts,py,rust,react,nextjs,nodejs,docker,git,github&perline=10&theme=dark" />
+    </picture>
+  </a>
   <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,grafana,express,django,laravel,flutter,dart&perline=10&theme=dark#gh-dark-mode-only" alt="Data & Frameworks" />
-  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,grafana,express,django,laravel,flutter,dart&perline=10&theme=light#gh-light-mode-only" alt="Data & Frameworks" />
-</div>
+  <a href="#-tech-stack">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,grafana,express,django,laravel,flutter,dart&perline=10&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,grafana,express,django,laravel,flutter,dart&perline=10&theme=light" />
+      <img alt="Data & Frameworks" src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,grafana,express,django,laravel,flutter,dart&perline=10&theme=dark" />
+    </picture>
+  </a>
+</p>
 
 **Systems & AI:** gRPC · Protocol Buffers · Microservices · Distributed contracts · Event-driven systems · Context engineering · Multi-agent orchestration · LLM integration · CI/CD automation
 
