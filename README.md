@@ -3,7 +3,7 @@
   # Edo Sulaiman
 
   <a href="https://edosulai.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full-stack+systems+engineer+%C2%B7+AI-integrated+architecture;Banking-grade+backend+%C2%B7+Distributed+contracts;Automation+pipelines+%C2%B7+Multi-agent+orchestration;~3+years+of+professional+experience+%C2%B7+4%2C300%2B+commits" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full-stack+systems+engineer+%C2%B7+AI-integrated+architecture;React%2FNext.js+%C2%B7+Microfrontend+%C2%B7+Component-driven+UI;Golang+microservices+%C2%B7+Distributed+contracts;Automation+pipelines+%C2%B7+Multi-agent+orchestration;~3+years+of+professional+experience+%C2%B7+4%2C300%2B+commits" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -17,9 +17,9 @@
 
 <br/>
 
-Full-stack engineer with ~3 years building banking-grade distributed systems, now applying that same rigor to AI-integrated architectures — automation pipelines, multi-agent orchestration, and developer tooling that let small teams ship like large ones.
+Full-stack engineer with ~3 years building enterprise-grade systems across frontend and backend — from React/Next.js microfrontend architecture and responsive enterprise dashboards to Golang microservices, distributed contracts, and secure payment integrations. Now applying that same rigor to AI-integrated architectures — automation pipelines, multi-agent orchestration, and developer tooling that let small teams ship like large ones.
 
-My path: self-taught foundations → high-scale finance systems (QLola, QCash, BRiSpot) → contract architecture and service alignment → AI-augmented workflows where automation handles the repetitive, and engineers focus on what matters.
+My path: self-taught foundations → high-scale finance systems (QLola, QCash, BRiSpot) → frontend architecture leadership + contract alignment → AI-augmented workflows where automation handles the repetitive, and engineers focus on what matters.
 
 > *I build systems for a future where software is powerful enough to disappear.*
 
@@ -27,14 +27,14 @@ My path: self-taught foundations → high-scale finance systems (QLola, QCash, B
 
 ## What I Build Now
 
-I design and build **production-grade backend systems and AI-integrated architectures** — from high-scale banking platforms to automation pipelines where AI handles orchestration end-to-end.
+I design and build **production-grade systems across the full stack** — from React/Next.js microfrontend architecture and enterprise dashboards to Golang microservices, distributed contracts, and AI-integrated architectures.
 
 ```
+Frontend Architecture   → microfrontend (Module Federation), React/Next.js, component-driven UI, design systems
 Systems Architecture     → scalable backend design, service boundaries, contract-first development
 Automation & DevOps      → CI/CD pipelines, infrastructure-as-code, self-healing workflows
 AI Integration           → context engineering, multi-agent orchestration, LLM-powered tooling
 API & Data Design        → gRPC, protocol buffers, event-driven flows, canonical data architecture
-Developer Experience     → source-of-truth systems, sync pipelines, reproducible environments
 ```
 
 <br/>
@@ -43,13 +43,13 @@ Developer Experience     → source-of-truth systems, sync pipelines, reproducib
 
 <div align="center">
 
-![Languages & Platforms](https://skillicons.dev/icons?i=go,ts,py,rust,react,nextjs,nodejs,docker,git,github&perline=10)
+![Languages & Platforms](https://skillicons.dev/icons?i=react,nextjs,ts,go,py,rust,nodejs,docker,git,github&perline=10)
 
-![Data & Frameworks](https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,grafana,express,django,laravel,flutter,dart&perline=10)
+![Data & Frameworks](https://skillicons.dev/icons?i=tailwind,storybook,postgres,redis,mongodb,mysql,grafana,express,django,flutter&perline=10)
 
 </div>
 
-**Systems & AI:** gRPC · Protocol Buffers · Microservices · Distributed contracts · Event-driven systems · Context engineering · Multi-agent orchestration · LLM integration · CI/CD automation
+**Full-Stack:** React · Next.js · TypeScript · Microfrontend (Module Federation) · Zustand · React Query · Storybook · gRPC · Protocol Buffers · Microservices · Distributed contracts · Event-driven systems · Context engineering · Multi-agent orchestration · LLM integration · CI/CD automation
 
 <br/>
 
@@ -76,7 +76,7 @@ Developer Experience     → source-of-truth systems, sync pipelines, reproducib
 | Project | Domain | Highlights |
 |:--------|:-------|:-----------|
 | **Pinturakik / Momena** | AI Systems | AI-first automation platform — context engineering, multi-agent orchestration, automation-first workflows, AI governance |
-| **QLola / QCash** | Banking | Cash management, payroll transfer, mass transfer, secure workflows |
+| **QLola / QCash** | Banking | Frontend architecture, microfrontend migration, responsive dashboards, payroll transfer, mass transfer, secure workflows |
 | **BRiSpot / BNS** | Banking | Contract standardization, protobuf alignment, service boundaries |
 | **Kreditplus** | Finance | Migration-oriented backend engineering, observability |
 
@@ -87,5 +87,5 @@ Developer Experience     → source-of-truth systems, sync pipelines, reproducib
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=edosulai&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
   <br/><br/>
-  <sub>Auto-generated from <a href="https://github.com/edosulai/edo-knowledge">edo-knowledge</a> (private) · 2026-03-25</sub>
+  <sub>Auto-generated from <a href="https://github.com/edosulai/edo-knowledge">edo-knowledge</a> (private) · 2026-03-26</sub>
 </div>
