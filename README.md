@@ -87,5 +87,5 @@ API & Data Design        → gRPC, protocol buffers, event-driven flows, canonic
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=edosulai&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
   <br/><br/>
-  <sub>Auto-generated from <a href="https://github.com/edosulai/edo-knowledge">edo-knowledge</a> (private) · 2026-03-26</sub>
+  <sub>Auto-generated from <a href="https://github.com/edosulai/whoami">whoami</a> (private) · 2026-03-26</sub>
 </div>
