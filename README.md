@@ -59,7 +59,23 @@ API & Data Design        → gRPC, protocol buffers, event-driven flows, canonic
 
 - **[edosulai.github.io](https://github.com/edosulai/edosulai.github.io)** — scroll-storytelling portfolio and CV surface
 - **[edosulai](https://github.com/edosulai/edosulai)** — public narrative, positioning, and profile README surface
+- **[github-repositories-explorer](https://github.com/edosulai/github-repositories-explorer)** — React/Next.js GitHub explorer with Tailwind-driven UI
+- **[foundation-edosulai](https://github.com/edosulai/foundation-edosulai)** — frontend foundation playground for UI patterns and implementation experiments
+- **[MicroFE-Native-Module-Federation](https://github.com/edosulai/MicroFE-Native-Module-Federation)** — microfrontend architecture exploration with native module federation
 - **Private client/company work** — most enterprise delivery, architecture, and migration work lives outside public repositories
+
+<br/>
+
+## Frontend Public Repos
+
+If you are scanning this profile to judge frontend depth first, start here:
+
+| Repo | Focus | Signal |
+|:-----|:------|:-------|
+| **[edosulai.github.io](https://github.com/edosulai/edosulai.github.io)** | Portfolio experience | Scroll-storytelling, motion, glassmorphism, responsive chapter-based UX |
+| **[github-repositories-explorer](https://github.com/edosulai/github-repositories-explorer)** | Product UI | React/Next.js, TypeScript, Tailwind, external API integration |
+| **[foundation-edosulai](https://github.com/edosulai/foundation-edosulai)** | UI foundation | frontend-focused playground for reusable implementation patterns |
+| **[MicroFE-Native-Module-Federation](https://github.com/edosulai/MicroFE-Native-Module-Federation)** | Frontend architecture | module federation and microfrontend boundary exploration |
 
 <br/>
 
