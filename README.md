@@ -3,7 +3,7 @@
   # Edo Sulaiman
 
   <a href="https://edosulai.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full-stack+systems+engineer+%C2%B7+AI-integrated+architecture;React%2FNext.js+%C2%B7+Microfrontend+%C2%B7+Component-driven+UI;Golang+microservices+%C2%B7+Distributed+contracts;Automation+pipelines+%C2%B7+Multi-agent+orchestration;~3+years+of+professional+experience+%C2%B7+4%2C300%2B+commits" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full-stack+systems+engineer+%C2%B7+AI-integrated+architecture;React%2FNext.js+%C2%B7+Microfrontend+%C2%B7+Component-driven+UI;Golang+microservices+%C2%B7+Distributed+contracts;Automation+pipelines+%C2%B7+Multi-agent+orchestration;Banking+systems+%C2%B7+Frontend+architecture+%C2%B7+AI-native+tooling" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -20,6 +20,8 @@
 Full-stack engineer with ~3 years building enterprise-grade systems across frontend and backend — from React/Next.js microfrontend architecture and responsive enterprise dashboards to Golang microservices, distributed contracts, and secure payment integrations. Now applying that same rigor to AI-integrated architectures — automation pipelines, multi-agent orchestration, and developer tooling that let small teams ship like large ones.
 
 My path: self-taught foundations → high-scale finance systems (QLola, QCash, BRiSpot) → frontend architecture leadership + contract alignment → AI-augmented workflows where automation handles the repetitive, and engineers focus on what matters.
+
+Most of the systems I ship live in private client and company repositories. This profile is the public slice: portfolio surfaces, reusable artifacts, condensed case studies, and the parts of the work that can be shown openly.
 
 > *I build systems for a future where software is powerful enough to disappear.*
 
@@ -53,6 +55,14 @@ API & Data Design        → gRPC, protocol buffers, event-driven flows, canonic
 
 <br/>
 
+## Public Surface
+
+- **[edosulai.github.io](https://github.com/edosulai/edosulai.github.io)** — scroll-storytelling portfolio and CV surface
+- **[edosulai](https://github.com/edosulai/edosulai)** — public narrative, positioning, and profile README surface
+- **Private client/company work** — most enterprise delivery, architecture, and migration work lives outside public repositories
+
+<br/>
+
 ## GitHub Stats
 
 <div align="center">
@@ -77,8 +87,8 @@ API & Data Design        → gRPC, protocol buffers, event-driven flows, canonic
 |:--------|:-------|:-----------|
 | **Pinturakik / Momena** | AI Systems | AI-first automation platform — context engineering, multi-agent orchestration, automation-first workflows, AI governance |
 | **QLola / QCash** | Banking | Frontend architecture, microfrontend migration, responsive dashboards, payroll transfer, mass transfer, secure workflows |
-| **BRiSpot / BNS** | Banking | Contract standardization, protobuf alignment, service boundaries |
-| **Kreditplus** | Finance | Migration-oriented backend engineering, observability |
+| **BRiSpot / BNS** | Banking | Platform integration architecture, contract standardization, protobuf alignment, service boundaries |
+| **Kreditplus** | Finance | Finance-platform migration, observability, rollout confidence |
 
 <br/>
 
@@ -87,5 +97,5 @@ API & Data Design        → gRPC, protocol buffers, event-driven flows, canonic
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=edosulai&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
   <br/><br/>
-  <sub>Auto-generated from <a href="https://github.com/edosulai/whoami">whoami</a> (private) · 2026-03-26</sub>
+  <sub>Auto-generated from personal knowledge canon (private) · 2026-03-27</sub>
 </div>
