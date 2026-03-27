@@ -49,7 +49,9 @@ I design and build **production-grade systems across the full stack** — from R
 
 ![Data & Frameworks](https://skillicons.dev/icons?i=tailwind,postgres,redis,mongodb,mysql,grafana,express,django,flutter&perline=9)
 
-[![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)](https://storybook.js.org/)
+<a href="https://storybook.js.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="Storybook" width="48" height="48" />
+</a>
 
 </div>
 
