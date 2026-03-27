@@ -31,13 +31,13 @@ Most of the systems I ship live in private client and company repositories. This
 
 I design and build **production-grade systems across the full stack** — from React/Next.js microfrontend architecture and enterprise dashboards to Golang microservices, distributed contracts, and AI-integrated architectures.
 
-```
-Frontend Architecture   → microfrontend (Module Federation), React/Next.js, component-driven UI, design systems
-Systems Architecture     → scalable backend design, service boundaries, contract-first development
-Automation & DevOps      → CI/CD pipelines, infrastructure-as-code, self-healing workflows
-AI Integration           → context engineering, multi-agent orchestration, LLM-powered tooling
-API & Data Design        → gRPC, protocol buffers, event-driven flows, canonical data architecture
-```
+| Area | Focus |
+|:-----|:------|
+| Frontend Architecture | microfrontend (Module Federation), React/Next.js, component-driven UI, design systems |
+| Systems Architecture | scalable backend design, service boundaries, contract-first development |
+| Automation and DevOps | CI/CD pipelines, infrastructure-as-code, self-healing workflows |
+| AI Integration | context engineering, multi-agent orchestration, LLM-powered tooling |
+| API and Data Design | gRPC, protocol buffers, event-driven flows, canonical data architecture |
 
 <br/>
 
@@ -47,7 +47,9 @@ API & Data Design        → gRPC, protocol buffers, event-driven flows, canonic
 
 ![Languages & Platforms](https://skillicons.dev/icons?i=react,nextjs,ts,go,py,rust,nodejs,docker,git,github&perline=10)
 
-![Data & Frameworks](https://skillicons.dev/icons?i=tailwind,storybook,postgres,redis,mongodb,mysql,grafana,express,django,flutter&perline=10)
+![Data & Frameworks](https://skillicons.dev/icons?i=tailwind,postgres,redis,mongodb,mysql,grafana,express,django,flutter&perline=9)
+
+[![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)](https://storybook.js.org/)
 
 </div>
 
