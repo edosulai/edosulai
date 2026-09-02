@@ -3,7 +3,7 @@
   # Edo Sulaiman
 
   <a href="https://edosulai.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Software+Engineer+%C2%B7+Full-Stack+Product+Delivery;Complete+products+(web%2C+backend%2C+mobile%2C+cloud);Powered+by+custom+AI+infrastructure;Banking+%C2%B7+Finance+%C2%B7+AI+Systems;One+engineer%2C+full+product+output" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full-Stack+Engineer+%C2%B7+Go+%C2%B7+React+%C2%B7+Android;Banking+and+finance+systems;Local+AI+operator+tooling;Ships+the+product%2C+not+just+a+layer" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -15,31 +15,25 @@
   &nbsp;[![Instagram](https://img.shields.io/badge/edosulai-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/edosulai)
   -->
 
-
 </div>
 
 <br/>
 
-I deliver complete products (web, backend, mobile, infrastructure) at the speed of a small team. I built my own AI engineering system to make that possible.
+I ship production software in banking and finance — Go services, React/Next, Android — and I build the local AI operator stack I actually work with. Most of the systems I ship live in private company repos. This profile is the public slice.
 
-3+ years shipping production systems in banking and finance (BRI, Kreditplus). I work across React, Go, Android, and cloud. What makes the pace possible is an AI system I built and maintain: model routing across providers, automated browser and terminal agents, persistent context across sessions and machines. But the point isn't the tooling. The point is you get a complete product, shipped.
+3+ years. QLola/QCash at Steradian, Kreditplus, then BRI (BRiSpot/BNS and BRILink NPSO). The AI work is operator tooling on my own machines, not a claim that I am an ML researcher.
 
-Most of the systems I ship live in private client and company repositories. This profile is the public slice: portfolio surfaces, reusable artifacts, condensed case studies, and the parts of the work that can be shown openly.
-
-> *I build software that ships. The stack is whatever the product needs.*
+> *Full-stack stays. The agent layer is how I move faster — it does not replace the stack.*
 
 <br/>
 
-## What I Build Now
-
-I deliver complete products across any layer the product needs.
+## What I work in
 
 ```
-Web                → React/Next.js, TypeScript, microfrontend (Module Federation), component-driven UI
-Backend            → Golang microservices, gRPC, protocol buffers, event-driven systems
-Mobile             → Android (Kotlin), React Native
-AI Infrastructure  → personal model router, multi-agent orchestration, browser automation, context engineering
-Cloud & DevOps     → Docker, OpenShift, CI/CD pipelines, cross-machine sync
+Web            → React, Next.js, TypeScript, Module Federation
+Backend        → Go, gRPC, Protocol Buffers, PostgreSQL, Kafka
+Mobile         → Android (Kotlin); iOS (Swift) at scaffold depth
+Agent tooling  → local computer-use, MCP, persistent context across machines
 ```
 
 <br/>
@@ -48,35 +42,52 @@ Cloud & DevOps     → Docker, OpenShift, CI/CD pipelines, cross-machine sync
 
 <div align="center">
 
-![Languages & Platforms](https://skillicons.dev/icons?i=react,nextjs,ts,go,py,rust,nodejs,docker,git,github&perline=10)
+![Languages & Platforms](https://skillicons.dev/icons?i=react,nextjs,ts,go,kotlin,py,nodejs,docker,git,github&perline=10)
 
-![Data & Frameworks](https://skillicons.dev/icons?i=tailwind,storybook,postgres,redis,mongodb,mysql,grafana,express,django,flutter&perline=10)
+![Data & Infra](https://skillicons.dev/icons?i=tailwind,postgres,redis,kafka,grafana&perline=5)
 
 </div>
 
-**Full-Stack:** React · Next.js · TypeScript · Golang · Android (Kotlin) · Microfrontend (Module Federation) · gRPC · Protocol Buffers · Microservices · Multi-agent orchestration · AI infrastructure · CI/CD automation
+**Day job:** React · Next.js · TypeScript · Go · Kotlin · gRPC · Protobuf · PostgreSQL · Kafka · Docker · CI/CD
+
+**Operator layer:** local agents, computer-use on macOS, MCP hosts — see [silenthand-cua](https://github.com/edosulai/silenthand-cua)
 
 <br/>
 
-## Public Surface
+## Selected work
 
-- **[edosulai.github.io](https://github.com/edosulai/edosulai.github.io)** : scroll-storytelling portfolio and CV surface
-- **[edosulai](https://github.com/edosulai/edosulai)** : public narrative, positioning, and profile README
-- **[github-repositories-explorer](https://github.com/edosulai/github-repositories-explorer)** : React/Next.js GitHub explorer with Tailwind-driven UI
-- **[foundation-edosulai](https://github.com/edosulai/foundation-edosulai)** : UI foundation playground for reusable patterns
-- **[MicroFE-Native-Module-Federation](https://github.com/edosulai/MicroFE-Native-Module-Federation)** : microfrontend architecture exploration with native module federation
-- **Private client/company work** : most enterprise delivery lives outside public repositories
+Client and employer code stays private. These are the honest public labels.
+
+| Work | When | What it actually is |
+|:-----|:-----|:--------------------|
+| **BRI — BRILink (Brimola / NPSO)** | Apr 2026–present | Go backend for NPSO catalog and cart on a live banking ecommerce surface |
+| **BRI — BRiSpot / BNS** | Jan–Mar 2026 | Service contracts, protobuf, Kafka paths, CISO-facing changes (Indocyber at BRI) |
+| **Kreditplus (KB-FMF)** | Jul 2025–Jan 2026 | Finance backend at SIGMATECH / Kreditplus. Not a 2026 job — it ended in January |
+| **QLola / QCash (Steradian)** | May 2023–Jul 2025 | Banking product work, including microfrontend (Module Federation) on a live surface |
+| **Momena (Pinturakik)** | 2025–present, side product | BLE presence-native social app. Validation phase — not shipped. Go kit + proto + Android BLE scaffold. Not an AI automation platform |
 
 <br/>
 
-## Selected Public Repos
+## Public surface
+
+- **[silenthand-cua](https://github.com/edosulai/silenthand-cua)** — unofficial Computer Use host for a local Mac. Click, type, and read AX trees without stealing focus. Not on npm.
+- **[edosulai.github.io](https://github.com/edosulai/edosulai.github.io)** — portfolio and CV site
+- **[MicroFE-Native-Module-Federation](https://github.com/edosulai/MicroFE-Native-Module-Federation)** — microfrontend exploration with native Module Federation
+- **[github-repositories-explorer](https://github.com/edosulai/github-repositories-explorer)** — React/Next GitHub explorer
+- **[raincast](https://github.com/edosulai/raincast)** — archived 2022 rainfall-forecasting thesis. Not current work.
+- **Private company repos** — BRI, Kreditplus, QLola, and the rest of Momena live off this account
+
+<br/>
+
+## Selected public repos
 
 | Repo | Stack | What it shows |
 |:-----|:------|:--------------|
-| **[edosulai.github.io](https://github.com/edosulai/edosulai.github.io)** | React, motion, responsive | Scroll-storytelling, glassmorphism, chapter-based UX |
-| **[github-repositories-explorer](https://github.com/edosulai/github-repositories-explorer)** | React/Next.js, TypeScript, Tailwind | Product UI, external API integration |
-| **[foundation-edosulai](https://github.com/edosulai/foundation-edosulai)** | Frontend patterns | Reusable implementation playground |
-| **[MicroFE-Native-Module-Federation](https://github.com/edosulai/MicroFE-Native-Module-Federation)** | Module Federation | Microfrontend boundary exploration |
+| **[silenthand-cua](https://github.com/edosulai/silenthand-cua)** | Node, MCP, macOS | Local computer-use host I actually run |
+| **[edosulai.github.io](https://github.com/edosulai/edosulai.github.io)** | Next.js, TypeScript | Public portfolio / CV |
+| **[MicroFE-Native-Module-Federation](https://github.com/edosulai/MicroFE-Native-Module-Federation)** | Module Federation | Frontend boundary work that maps to QLola |
+| **[github-repositories-explorer](https://github.com/edosulai/github-repositories-explorer)** | React, Next.js, TypeScript | Product UI against a public API |
+| **[raincast](https://github.com/edosulai/raincast)** | Python, notebooks | Archived thesis — not a production ML claim |
 
 <br/>
 
@@ -98,22 +109,10 @@ Cloud & DevOps     → Docker, OpenShift, CI/CD pipelines, cross-machine sync
 
 <br/>
 
-## Selected Work
-
-| Project | Domain | Highlights |
-|:--------|:-------|:-----------|
-| **BRI Brilink (Brimola/NPSO)** | Banking / E-commerce | Full NPSO catalog+cart backend in Go, Android fast onboarding, ASDP ticketing, 387 commits in 4 months |
-| **Momena** | AI Systems | AI-first automation platform: context engineering, multi-agent orchestration, AI governance |
-| **QLola / QCash** | Banking | Microfrontend migration, responsive dashboards, payroll transfer, mass transfer, secure workflows |
-| **BRiSpot / BNS** | Banking | Contract standardization, protobuf alignment, service boundaries |
-| **Kreditplus** | Finance | Database migration (SQL Server to PostgreSQL), observability, 75%+ test coverage |
-
-<br/>
-
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=edosulai&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
   <br/><br/>
-  <sub>Last updated: 2026-07-17</sub>
+  <sub>Last updated: 2026-09-02</sub>
 </div>
