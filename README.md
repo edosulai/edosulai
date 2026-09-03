@@ -3,7 +3,7 @@
   # Edo Sulaiman
 
   <a href="https://edosulai.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full-Stack+Engineer+%C2%B7+Go+%C2%B7+React+%C2%B7+Android;Banking+and+finance+systems;Local+AI+operator+tooling;Ships+the+product%2C+not+just+a+layer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full-Stack+Engineer+%C2%B7+Go+%C2%B7+React+%C2%B7+Android;Banking+and+finance+systems;AI+Coding+%26+Agents+%C2%B7+Agent+Engineering;Ships+the+product%2C+not+just+a+layer" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -19,11 +19,11 @@
 
 <br/>
 
-I ship production software in banking and finance — Go services, React/Next, Android — and I build the local AI operator stack I actually work with. Most of the systems I ship live in private company repos. This profile is the public slice.
+I ship production software in banking and finance: Go services, React/Next, and Android. I also use AI coding agents and agent engineering workflows on my own machines. Most of the systems I ship live in private company repos. This profile is the public slice.
 
-3+ years. QLola/QCash at Steradian, Kreditplus, then BRI (BRiSpot/BNS and BRILink NPSO). The AI work is operator tooling on my own machines, not a claim that I am an ML researcher.
+3+ years. QLola/QCash at Steradian, Kreditplus, then BRI (BRiSpot/BNS and BRILink NPSO). My AI work is practical engineering with coding agents, computer-use, MCP, prompt, context, and harness engineering. I am not an ML researcher.
 
-> *Full-stack stays. The agent layer is how I move faster — it does not replace the stack.*
+> *Full-stack stays. The agent layer is how I move faster; it does not replace the stack.*
 
 <br/>
 
@@ -33,7 +33,9 @@ I ship production software in banking and finance — Go services, React/Next, A
 Web            → React, Next.js, TypeScript, Module Federation
 Backend        → Go, gRPC, Protocol Buffers, PostgreSQL, Kafka
 Mobile         → Android (Kotlin); iOS (Swift) at scaffold depth
-Agent tooling  → local computer-use, MCP, persistent context across machines
+AI coding      → Hermes Agent, Cursor, Paseo, OpenClaw, Grok bot, Claude Code, Codex
+Agents         → MCP, Graphify, OmniRoute, computer-use, persistent context across machines
+Engineering    → prompt, context, and harness engineering
 ```
 
 <br/>
@@ -50,7 +52,11 @@ Agent tooling  → local computer-use, MCP, persistent context across machines
 
 **Day job:** React · Next.js · TypeScript · Go · Kotlin · gRPC · Protobuf · PostgreSQL · Kafka · Docker · CI/CD
 
-**Operator layer:** local agents, computer-use on macOS, MCP hosts — see [silenthand-cua](https://github.com/edosulai/silenthand-cua)
+**AI Coding & Agents:** Hermes Agent · Cursor · Paseo · OpenClaw · Grok bot · Claude Code · Codex · MCP · Graphify · OmniRoute
+
+**Agent Engineering:** Prompt engineering · Context engineering · Harness engineering
+
+Public computer-use work: [silenthand-cua](https://github.com/edosulai/silenthand-cua)
 
 <br/>
 
@@ -64,7 +70,7 @@ Client and employer code stays private. These are the honest public labels.
 | **BRI — BRiSpot / BNS** | Jan–Mar 2026 | Service contracts, protobuf, Kafka paths, CISO-facing changes (Indocyber at BRI) |
 | **Kreditplus (KB-FMF)** | Jul 2025–Jan 2026 | Finance backend at SIGMATECH / Kreditplus. Not a 2026 job — it ended in January |
 | **QLola / QCash (Steradian)** | May 2023–Jul 2025 | Banking product work, including microfrontend (Module Federation) on a live surface |
-| **Momena (Pinturakik)** | 2025–present, side product | BLE presence-native social app. Validation phase — not shipped. Go kit + proto + Android BLE scaffold. Not an AI automation platform |
+| **Momena (Pinturakik)** | Side product | BLE presence-native social app in validation. Go kit + proto + Android BLE scaffold. Not an AI automation platform |
 
 <br/>
 
@@ -114,5 +120,5 @@ Client and employer code stays private. These are the honest public labels.
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=edosulai&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
   <br/><br/>
-  <sub>Last updated: 2026-09-02</sub>
+  <sub>Last updated: 2026-09-03</sub>
 </div>
