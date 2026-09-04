@@ -66,7 +66,7 @@ Client and employer code stays private. These are the honest public labels.
 
 | Work | When | What it actually is |
 |:-----|:-----|:--------------------|
-| **BRI — BRILink Mobile (Brimola NPSO)** | Apr 2026–present | Go backend for Brimola NPSO catalog and cart. NPSO is Brimola's non-subsidized product type, not another name for BRILink |
+| **BRI — BRILink Mobile** | Apr 2026–present | Go services on BRILink Mobile: Brimola ecommerce (PSO and NPSO) plus other BRILink backends such as webview integrations |
 | **BRI — BRiSpot / BNS** | Jan–Mar 2026 | Service contracts, protobuf, Kafka paths, CISO-facing changes (Indocyber at BRI) |
 | **Kreditplus (KB-FMF)** | Jul 2025–Jan 2026 | Finance backend at SIGMATECH / Kreditplus. Not a 2026 job — it ended in January |
 | **QLola / QCash (Steradian)** | May 2023–Jul 2025 | Banking product work, including microfrontend (Module Federation) on a live surface |
