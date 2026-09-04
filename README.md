@@ -21,7 +21,7 @@
 
 I ship production software in banking and finance: Go services, React/Next, and Android. I also use AI coding agents and agent engineering workflows on my own machines. Most of the systems I ship live in private company repos. This profile is the public slice.
 
-3+ years. QLola/QCash at Steradian, Kreditplus, then BRI (BRiSpot/BNS and BRILink NPSO). My AI work is practical engineering with coding agents, computer-use, MCP, prompt, context, and harness engineering. I am not an ML researcher.
+3+ years. QLola/QCash at Steradian, Kreditplus, then BRI (BRiSpot/BNS and BRILink Mobile). My AI work is practical engineering with coding agents, computer-use, MCP, prompt, context, and harness engineering. I am not an ML researcher.
 
 > *Full-stack stays. The agent layer is how I move faster; it does not replace the stack.*
 
@@ -66,7 +66,7 @@ Client and employer code stays private. These are the honest public labels.
 
 | Work | When | What it actually is |
 |:-----|:-----|:--------------------|
-| **BRI — BRILink (Brimola / NPSO)** | Apr 2026–present | Go backend for NPSO catalog and cart on a live banking ecommerce surface |
+| **BRI — BRILink Mobile (Brimola NPSO)** | Apr 2026–present | Go backend for Brimola NPSO catalog and cart. NPSO is Brimola's non-subsidized product type, not another name for BRILink |
 | **BRI — BRiSpot / BNS** | Jan–Mar 2026 | Service contracts, protobuf, Kafka paths, CISO-facing changes (Indocyber at BRI) |
 | **Kreditplus (KB-FMF)** | Jul 2025–Jan 2026 | Finance backend at SIGMATECH / Kreditplus. Not a 2026 job — it ended in January |
 | **QLola / QCash (Steradian)** | May 2023–Jul 2025 | Banking product work, including microfrontend (Module Federation) on a live surface |
