@@ -48,6 +48,19 @@ Engineering    → prompt, context, and harness engineering
 
 ![Data & Infra](https://skillicons.dev/icons?i=tailwind,postgres,redis,kafka,grafana&perline=5)
 
+<p>
+  <img src="docs/assets/skills/hermes-agent.svg" width="48" height="48" alt="Hermes Agent" />
+  <img src="docs/assets/skills/cursor.svg" width="48" height="48" alt="Cursor" />
+  <img src="docs/assets/skills/paseo.svg" width="48" height="48" alt="Paseo" />
+  <img src="docs/assets/skills/openclaw.svg" width="48" height="48" alt="OpenClaw" />
+  <img src="docs/assets/skills/grok-bot.svg" width="48" height="48" alt="Grok bot" />
+  <img src="docs/assets/skills/claude-code.svg" width="48" height="48" alt="Claude Code" />
+  <img src="docs/assets/skills/codex.svg" width="48" height="48" alt="Codex" />
+  <img src="docs/assets/skills/mcp.svg" width="48" height="48" alt="MCP" />
+  <img src="docs/assets/skills/graphify.svg" width="48" height="48" alt="Graphify" />
+  <img src="docs/assets/skills/omniroute.svg" width="48" height="48" alt="OmniRoute" />
+</p>
+
 </div>
 
 **Day job:** React · Next.js · TypeScript · Go · Kotlin · gRPC · Protobuf · PostgreSQL · Kafka · Docker · CI/CD
@@ -120,5 +133,5 @@ Client and employer code stays private. These are the honest public labels.
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=edosulai&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
   <br/><br/>
-  <sub>Last updated: 2026-09-03</sub>
+  <sub>Last updated: 2026-09-04</sub>
 </div>

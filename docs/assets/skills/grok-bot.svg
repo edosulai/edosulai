@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 256 256" fill="none" role="img" aria-label="Grok bot">
+  <title>Grok bot</title>
+  <rect width="256" height="256" fill="#242938" rx="60"/>
+  <svg x="32" y="32" width="192" height="192" overflow="visible">
+    <svg viewBox="0 0 480 480" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><defs><linearGradient id="grok-bot-background-inline" x1="240" y1="0" x2="240" y2="480" gradientUnits="userSpaceOnUse"><stop stop-color="#1f1f1f"/><stop offset="1" stop-color="#000000"/></linearGradient><radialGradient id="grok-bot-head-inline" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(298 256) rotate(90) scale(358)"><stop stop-color="#f8f8f8"/><stop offset="0.32" stop-color="#eeeeee"/><stop offset="0.68" stop-color="#d3d3d3"/><stop offset="1" stop-color="#a8a8a8"/></radialGradient><clipPath id="grok-bot-rounded-clip-inline"><rect width="480" height="480" rx="90"/></clipPath></defs><g clip-path="url(#grok-bot-rounded-clip-inline)"><rect width="480" height="480" fill="url(#grok-bot-background-inline)"/><circle cx="191.7" cy="383.5" r="287.8" fill="url(#grok-bot-head-inline)"/><rect x="185.6" y="211" width="72.2" height="156.8" rx="36.1" fill="#090909" transform="rotate(-34.2 221.7 289.4)"/><rect x="332.3" y="146.1" width="47.6" height="157.8" rx="23.8" fill="#090909" transform="rotate(-34.2 356.1 225)"/></g></svg>
+  </svg>
+</svg>

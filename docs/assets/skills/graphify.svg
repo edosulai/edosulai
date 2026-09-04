@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 256 256" fill="none" role="img" aria-label="Graphify">
+  <title>Graphify</title>
+  <rect width="256" height="256" fill="#242938" rx="60"/>
+  <svg x="32" y="32" width="192" height="192" overflow="visible">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  
+
+  <!-- subtle halo around hub -->
+  <circle cx="24" cy="24" r="11" fill="none" stroke="#22c55e" stroke-width="0.4" opacity="0.18"/>
+
+  <!-- edges: hub to satellites -->
+  <line stroke="#4ade80" stroke-width="1.2" stroke-linecap="round" opacity="0.9" fill="none" x1="24" y1="24" x2="10"  y2="11"/>
+  <line stroke="#4ade80" stroke-width="1.2" stroke-linecap="round" opacity="0.9" fill="none" x1="24" y1="24" x2="39"  y2="14"/>
+  <line stroke="#4ade80" stroke-width="1.2" stroke-linecap="round" opacity="0.9" fill="none" x1="24" y1="24" x2="38"  y2="36"/>
+  <line stroke="#4ade80" stroke-width="1.2" stroke-linecap="round" opacity="0.9" fill="none" x1="24" y1="24" x2="11"  y2="37"/>
+
+  <!-- perimeter edges -->
+  <line stroke="#22c55e" stroke-width="1.1" stroke-linecap="round" opacity="0.55" fill="none" x1="10" y1="11" x2="39" y2="14"/>
+  <line stroke="#22c55e" stroke-width="1.1" stroke-linecap="round" opacity="0.55" fill="none" x1="39" y1="14" x2="38" y2="36"/>
+  <line stroke="#22c55e" stroke-width="1.1" stroke-linecap="round" opacity="0.55" fill="none" x1="38" y1="36" x2="11" y2="37"/>
+  <line stroke="#22c55e" stroke-width="1.1" stroke-linecap="round" opacity="0.55" fill="none" x1="11" y1="37" x2="10" y2="11"/>
+
+  <!-- satellite nodes -->
+  <circle fill="#040806" stroke="#22c55e" stroke-width="1.3"       cx="10" cy="11" r="2.6"/>
+  <circle fill="#22c55e"  cx="10" cy="11" r="1.1"/>
+
+  <circle fill="#040806" stroke="#22c55e" stroke-width="1.3"       cx="39" cy="14" r="2.6"/>
+  <circle fill="#22c55e"  cx="39" cy="14" r="1.1"/>
+
+  <!-- amber accent node -->
+  <circle fill="#040806" stroke="#f59e0b" stroke-width="1.3"      cx="38" cy="36" r="2.8"/>
+  <circle fill="#f59e0b" cx="38" cy="36" r="1.25"/>
+
+  <circle fill="#040806" stroke="#22c55e" stroke-width="1.3"       cx="11" cy="37" r="2.6"/>
+  <circle fill="#22c55e"  cx="11" cy="37" r="1.1"/>
+
+  <!-- central hub / god-node -->
+  <circle fill="#0a1410" stroke="#4ade80" stroke-width="1.6"      cx="24" cy="24" r="4.4"/>
+  <circle fill="#4ade80" cx="24" cy="24" r="1.8"/>
+</svg>
+  </svg>
+</svg>
