@@ -19,11 +19,11 @@
 
 <br/>
 
-I ship production software in banking and finance: Go services, React/Next, and Android. I also use AI coding agents and agent engineering workflows on my own machines. Most of the systems I ship live in private company repos. This profile is the public slice.
+I am a Full-Stack Engineer specializing in banking and financial systems (Go, React, Android) across BRILink Mobile Go (Brimola, BNS, QLola/QCash) and autonomous intelligence orchestration. Most of the enterprise systems I ship live in private company repos. This profile is the public slice.
 
-3+ years. QLola/QCash at Steradian, Kreditplus, then BRI (BRiSpot/BNS and BRILink Mobile). My AI work is practical engineering with coding agents, computer-use, MCP, prompt, context, and harness engineering. I am not an ML researcher.
+3+ years in production systems: BRILink Mobile (Brimola ecommerce & webviews), BRiSpot/BNS, Kreditplus, and QLola/QCash. On the autonomous systems front, I created **Methora (Universal Autonomous Operating Intelligence)** — an open-domain autonomous orchestrator connecting multi-node Mac mesh (Pro & Air), Grok Bot VM (cursor), and mobile (Paseo). My daily agent workflows span Hermes Agent, Cursor, Claude Code, Codex, MCP, Graphify, and OmniRoute.
 
-> *Full-stack stays. The agent layer is how I move faster; it does not replace the stack.*
+> *Full-stack stays. Autonomous orchestration and agent engineering are how I move faster; they do not replace the stack.*
 
 <br/>
 
@@ -33,6 +33,7 @@ I ship production software in banking and finance: Go services, React/Next, and 
 Web            → React, Next.js, TypeScript, Module Federation
 Backend        → Go, gRPC, Protocol Buffers, PostgreSQL, Kafka
 Mobile         → Android (Kotlin); iOS (Swift) at scaffold depth
+Autonomous     → Methora (Universal Autonomous Operating Intelligence)
 AI coding      → Hermes Agent, Cursor, Paseo, OpenClaw, Grok bot, Claude Code, Codex
 Agents         → MCP, Graphify, OmniRoute, computer-use, persistent context across machines
 Engineering    → prompt, context, and harness engineering
