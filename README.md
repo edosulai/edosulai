@@ -65,11 +65,11 @@ Engineering    → prompt, context, and harness engineering
 
 **Day job:** React · Next.js · TypeScript · Go · Kotlin · gRPC · Protobuf · PostgreSQL · Kafka · Docker · CI/CD
 
-**AI Coding & Agents:** Hermes Agent · Cursor · Paseo · OpenClaw · Grok bot · Claude Code · Codex · MCP · Graphify · OmniRoute
+**AI Coding & Agents:** Hermes Agent · Cursor · Paseo · OpenClaw · Grok bot · Claude Code · Codex · MCP · Graphify · OmniRoute · Methora (Universal Autonomous Operating Intelligence)
 
-**Agent Engineering:** Prompt engineering · Context engineering · Harness engineering
+**Agent Engineering:** Prompt engineering · Context engineering · Harness engineering · Autonomous Orchestration
 
-Public computer-use work: [silenthand-cua](https://github.com/edosulai/silenthand-cua)
+Core Autonomous Intelligence: **[Methora](https://github.com/edosulai/methora)** (Universal Autonomous Operating Intelligence)
 
 <br/>
 
@@ -89,12 +89,10 @@ Client and employer code stays private. These are the honest public labels.
 
 ## Public surface
 
-- **[silenthand-cua](https://github.com/edosulai/silenthand-cua)** — unofficial Computer Use host for a local Mac. Click, type, and read AX trees without stealing focus. Not on npm.
+- **[methora](https://github.com/edosulai/methora)** — **Methora (Universal Autonomous Operating Intelligence)**: Open-domain, self-improving autonomous personal operating intelligence orchestrating multi-node Mac mesh (`laptop` Pro & `workstation` Air), cloud Linux VM (`cursor`), and mobile/emulated surfaces (`Paseo`).
 - **[edosulai.github.io](https://github.com/edosulai/edosulai.github.io)** — portfolio and CV site
 - **[MicroFE-Native-Module-Federation](https://github.com/edosulai/MicroFE-Native-Module-Federation)** — microfrontend exploration with native Module Federation
-- **[github-repositories-explorer](https://github.com/edosulai/github-repositories-explorer)** — React/Next GitHub explorer
-- **[raincast](https://github.com/edosulai/raincast)** — archived 2022 rainfall-forecasting thesis. Not current work.
-- **Private company repos** — BRI, Kreditplus, QLola, and the rest of Momena live off this account
+- **Private company repos** — BRI (BRILink Mobile Go, Brimola, BNS), Kreditplus, QLola, and Momena live off this account
 
 <br/>
 
@@ -102,11 +100,9 @@ Client and employer code stays private. These are the honest public labels.
 
 | Repo | Stack | What it shows |
 |:-----|:------|:--------------|
-| **[silenthand-cua](https://github.com/edosulai/silenthand-cua)** | Node, MCP, macOS | Local computer-use host I actually run |
+| **[methora](https://github.com/edosulai/methora)** | Python, Shell, Architecture | **Methora (Universal Autonomous Operating Intelligence)** — open-domain autonomous orchestrator connecting Mac mesh, cloud VM, and mobile |
 | **[edosulai.github.io](https://github.com/edosulai/edosulai.github.io)** | Next.js, TypeScript | Public portfolio / CV |
 | **[MicroFE-Native-Module-Federation](https://github.com/edosulai/MicroFE-Native-Module-Federation)** | Module Federation | Frontend boundary work that maps to QLola |
-| **[github-repositories-explorer](https://github.com/edosulai/github-repositories-explorer)** | React, Next.js, TypeScript | Product UI against a public API |
-| **[raincast](https://github.com/edosulai/raincast)** | Python, notebooks | Archived thesis — not a production ML claim |
 
 <br/>
 
