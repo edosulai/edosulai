@@ -89,7 +89,7 @@ Client and employer code stays private. These are the honest public labels.
 
 ## Public surface
 
-- **[methora](https://github.com/edosulai/methora)** — **Methora (Universal Autonomous Operating Intelligence)**: Open-domain, self-improving autonomous personal operating intelligence orchestrating multi-node Mac mesh (`laptop` Pro & `workstation` Air), cloud Linux VM (`cursor`), and mobile/emulated surfaces (`Paseo`).
+- **[methora](https://github.com/edosulai/methora)** — **Methora (Universal Autonomous Operating Intelligence)**: Open-domain, self-improving autonomous personal operating intelligence orchestrating multi-node Mac mesh (`laptop` Pro & `workstation` Air), Grok Bot VM (`cursor`), and mobile/emulated surfaces (`Paseo`).
 - **[edosulai.github.io](https://github.com/edosulai/edosulai.github.io)** — portfolio and CV site
 - **[MicroFE-Native-Module-Federation](https://github.com/edosulai/MicroFE-Native-Module-Federation)** — microfrontend exploration with native Module Federation
 - **Private company repos** — BRI (BRILink Mobile Go, Brimola, BNS), Kreditplus, QLola, and Momena live off this account
@@ -100,7 +100,7 @@ Client and employer code stays private. These are the honest public labels.
 
 | Repo | Stack | What it shows |
 |:-----|:------|:--------------|
-| **[methora](https://github.com/edosulai/methora)** | Python, Shell, Architecture | **Methora (Universal Autonomous Operating Intelligence)** — open-domain autonomous orchestrator connecting Mac mesh, cloud VM, and mobile |
+| **[methora](https://github.com/edosulai/methora)** | Python, Shell, Architecture | **Methora (Universal Autonomous Operating Intelligence)** — open-domain autonomous orchestrator connecting Mac mesh, Grok Bot VM, and mobile |
 | **[edosulai.github.io](https://github.com/edosulai/edosulai.github.io)** | Next.js, TypeScript | Public portfolio / CV |
 | **[MicroFE-Native-Module-Federation](https://github.com/edosulai/MicroFE-Native-Module-Federation)** | Module Federation | Frontend boundary work that maps to QLola |
 
