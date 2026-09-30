@@ -3,7 +3,7 @@
   # Edo Sulaiman
 
   <a href="https://edosulai.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full-Stack+Engineer+%C2%B7+Go+%C2%B7+React+%C2%B7+Android;Banking+and+finance+systems;AI+Coding+%26+Agents+%C2%B7+Agent+Engineering;Ships+the+product%2C+not+just+a+layer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full-Stack+Engineer+%C2%B7+Go+%C2%B7+React+%C2%B7+Android;Banking+and+finance+systems;Autonomous+AI+Systems+%26+Automation+Pipelines;Building+toward+an+Autonomous+One-Person+Company" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -19,11 +19,13 @@
 
 <br/>
 
-I am a Full-Stack Engineer specializing in banking and financial systems (Go, React, Android) across BRILink Mobile Go (Brimola, BNS, QLola/QCash) and autonomous intelligence orchestration. Most of the enterprise systems I ship live in private company repos. This profile is the public slice.
+I am a Full-Stack Engineer specializing in banking and financial systems (Go, React, Android) across BRILink Mobile Go (Brimola, BNS, QLola/QCash) and end-to-end autonomous intelligence orchestration. Most enterprise production systems I ship live in private enterprise repositories. This profile represents the public slice.
 
-3+ years in production systems: BRILink Mobile (Brimola ecommerce & webviews), BRiSpot/BNS, Kreditplus, and QLola/QCash. On the autonomous systems front, I created **Methora (Universal Autonomous Operating Intelligence)** — an open-domain autonomous orchestrator connecting multi-node Mac mesh (Pro & Air), Grok Bot VM (cursor), and mobile (Paseo). My daily agent workflows span Hermes Agent, Cursor, Claude Code, Codex, MCP, Graphify, and OmniRoute.
+3+ years in high-throughput production systems: BRILink Mobile (Brimola ecommerce & webviews), BRiSpot/BNS, Kreditplus, and QLola/QCash. On the AI & automation front, I architect and operate **Universal Autonomous Operating Intelligence** — self-hosted, multi-agent automated execution pipelines (driven by n8n workflow rails, multi-node compute mesh, and autonomous worker daemons). My active development pipelines integrate Hermes Agent, Cursor, Claude Code, Codex, MCP, Graphify, and OmniRoute. 
 
-> *Full-stack stays. Autonomous orchestration and agent engineering are how I move faster; they do not replace the stack.*
+Goal: Scaling autonomous agent architectures into a fully self-operating **One-Person Company** by 2027.
+
+> *Full-stack engineering provides the foundation. Autonomous orchestration, deterministic workflow automation, and agent engineering provide the leverage to operate at 10x output.*
 
 <br/>
 
@@ -33,10 +35,11 @@ I am a Full-Stack Engineer specializing in banking and financial systems (Go, Re
 Web            → React, Next.js, TypeScript, Module Federation
 Backend        → Go, gRPC, Protocol Buffers, PostgreSQL, Kafka
 Mobile         → Android (Kotlin); iOS (Swift) at scaffold depth
-Autonomous     → Methora (Universal Autonomous Operating Intelligence)
-AI coding      → Hermes Agent, Cursor, Paseo, OpenClaw, Grok bot, Claude Code, Codex
-Agents         → MCP, Graphify, OmniRoute, computer-use, persistent context across machines
-Engineering    → prompt, context, and harness engineering
+Autonomous AI  → Universal Autonomous Operating Intelligence, Multi-Agent Orchestration
+Automation     → Deterministic n8n automation rails, webhooks, autonomous background workers
+AI toolchain   → Hermes Agent, Cursor, Paseo, Grok bot, Claude Code, Codex
+Agent infra    → MCP, Graphify, OmniRoute, computer-use, persistent context mesh
+Engineering    → Prompt engineering, context paging, harness engineering
 ```
 
 <br/>
@@ -52,25 +55,31 @@ Engineering    → prompt, context, and harness engineering
 <p>
   <img src="docs/assets/skills/hermes-agent.svg" width="48" height="48" alt="Hermes Agent" />
   <img src="docs/assets/skills/cursor.svg" width="48" height="48" alt="Cursor" />
-  <img src="docs/assets/skills/paseo.svg" width="48" height="48" alt="Paseo" />
-  <img src="docs/assets/skills/openclaw.svg" width="48" height="48" alt="OpenClaw" />
-  <img src="docs/assets/skills/grok-bot.svg" width="48" height="48" alt="Grok bot" />
   <img src="docs/assets/skills/claude-code.svg" width="48" height="48" alt="Claude Code" />
   <img src="docs/assets/skills/codex.svg" width="48" height="48" alt="Codex" />
   <img src="docs/assets/skills/mcp.svg" width="48" height="48" alt="MCP" />
   <img src="docs/assets/skills/graphify.svg" width="48" height="48" alt="Graphify" />
   <img src="docs/assets/skills/omniroute.svg" width="48" height="48" alt="OmniRoute" />
+  <img src="docs/assets/skills/paseo.svg" width="48" height="48" alt="Paseo" />
 </p>
 
 </div>
 
-**Day job:** React · Next.js · TypeScript · Go · Kotlin · gRPC · Protobuf · PostgreSQL · Kafka · Docker · CI/CD
+<br/>
 
-**AI Coding & Agents:** Hermes Agent · Cursor · Paseo · OpenClaw · Grok bot · Claude Code · Codex · MCP · Graphify · OmniRoute · Methora (Universal Autonomous Operating Intelligence)
+### Capabilities
 
-**Agent Engineering:** Prompt engineering · Context engineering · Harness engineering · Autonomous Orchestration
+**Languages:** Go · TypeScript · JavaScript · Kotlin · Python · SQL · HTML/CSS
 
-Core Autonomous Intelligence: **[Methora](https://github.com/edosulai/methora)** (Universal Autonomous Operating Intelligence)
+**Frameworks & Libraries:** React · Next.js · React Native · Tailwind CSS · Node.js · Express · Go standard library · Gin · Android SDK · Jetpack Compose
+
+**Databases & Storage:** PostgreSQL · MySQL · Redis · SQLite
+
+**Architecture & Systems:** Microfrontends (Native Module Federation) · REST APIs · gRPC & Protocol Buffers · Event-Driven Architecture · Apache Kafka · Banking Integrations · CISO/Security Compliance
+
+**DevOps & Tooling:** Docker · Git · GitHub Actions · Linux · macOS · Nginx · Postman · Grafana · Prometheus
+
+**Autonomous AI & Workflow Automation:** Universal Autonomous Operating Intelligence · Multi-Agent Orchestration · Deterministic n8n automation pipelines · Multi-node compute routing · MCP (Model Context Protocol) · Knowledge Graph Paging & Memory Kernels · Prompt & Harness Engineering
 
 <br/>
 
@@ -90,45 +99,13 @@ Client and employer code stays private. These are the honest public labels.
 
 ## Public surface
 
-- **[methora](https://github.com/edosulai/methora)** — **Methora (Universal Autonomous Operating Intelligence)**: Open-domain, self-improving autonomous personal operating intelligence orchestrating multi-node Mac mesh (`laptop` Pro & `workstation` Air), Grok Bot VM (`cursor`), and mobile/emulated surfaces (`Paseo`).
 - **[edosulai.github.io](https://github.com/edosulai/edosulai.github.io)** — portfolio and CV site
 - **[MicroFE-Native-Module-Federation](https://github.com/edosulai/MicroFE-Native-Module-Federation)** — microfrontend exploration with native Module Federation
-- **Private company repos** — BRI (BRILink Mobile Go, Brimola, BNS), Kreditplus, QLola, and Momena live off this account
+- **Private company repos** — BRI (BRILink Mobile Go, Brimola, BNS), Kreditplus, QLola, and Momena live off this profile
+- **Autonomous Operations Engine** — Private multi-node autonomous intelligence and n8n deterministic orchestration harness power daily delivery
 
 <br/>
-
-## Selected public repos
-
-| Repo | Stack | What it shows |
-|:-----|:------|:--------------|
-| **[methora](https://github.com/edosulai/methora)** | Python, Shell, Architecture | **Methora (Universal Autonomous Operating Intelligence)** — open-domain autonomous orchestrator connecting Mac mesh, Grok Bot VM, and mobile |
-| **[edosulai.github.io](https://github.com/edosulai/edosulai.github.io)** | Next.js, TypeScript | Public portfolio / CV |
-| **[MicroFE-Native-Module-Federation](https://github.com/edosulai/MicroFE-Native-Module-Federation)** | Module Federation | Frontend boundary work that maps to QLola |
-
-<br/>
-
-## GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=edosulai&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=edosulai&show_icons=true&theme=default&hide_border=true&count_private=true" />
-    <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=edosulai&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=edosulai&theme=github-dark-blue&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=edosulai&theme=default&hide_border=true" />
-    <img height="180" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=edosulai&theme=github-dark-blue&hide_border=true" />
-  </picture>
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=edosulai&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
-  <br/><br/>
-  <sub>Last updated: 2026-09-04</sub>
+  <sub>Full-Stack Engineer · Banking & Finance · Autonomous AI Systems · Jakarta, Indonesia</sub>
 </div>
