@@ -82,15 +82,6 @@ Engineering    → Prompt engineering, context paging, harness engineering
 
 <br/>
 
-## Public repos
-
-- **[paseo](https://github.com/edosulai/paseo)** — orchestrate coding agents from desktop and phone
-- **[MicroFE-Native-Module-Federation](https://github.com/edosulai/MicroFE-Native-Module-Federation)** — microfrontends with native module federation
-- **[github-repositories-explorer](https://github.com/edosulai/github-repositories-explorer)** — GitHub API explorer, React / Next.js
-- **[edosulai.com](https://edosulai.com)** — portfolio and CV
-
-<br/>
-
 <div align="center">
   <sub>Full-Stack Engineer · Autonomous AI Systems · Jakarta, Indonesia</sub>
 </div>
