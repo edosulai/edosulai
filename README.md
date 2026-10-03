@@ -20,7 +20,7 @@ Full-stack engineer. I build production systems, then the agent stack that runs 
 
 Most of the production work stays in private repos. This profile is the public slice: the tools, and the systems I can show.
 
-On the AI side I run a self-hosted multi-agent stack — n8n rails, a multi-node mesh, and worker daemons. Day to day that is Hermes Agent, Cursor, Claude Code, Codex, MCP, Graphify, and OmniRoute.
+On the AI side I run a self-hosted multi-agent stack: n8n pipelines, multi-node compute routing, and worker daemons, wired through MCP and a knowledge graph. The engineering around that is prompt design, context paging, and harnesses. Day to day the tools are Hermes Agent, Cursor, Claude Code, Codex, Graphify, and OmniRoute.
 
 Goal: a self-operating one-person company by 2027.
 
@@ -63,22 +63,6 @@ Engineering    → Prompt engineering, context paging, harness engineering
 </p>
 
 </div>
-
-<br/>
-
-### Capabilities
-
-**Languages:** Go · TypeScript · JavaScript · Kotlin · Python · SQL · HTML/CSS
-
-**Frameworks & Libraries:** React · Next.js · React Native · Tailwind CSS · Node.js · Express · Go standard library · Gin · Android SDK · Jetpack Compose
-
-**Databases & Storage:** PostgreSQL · MySQL · Redis · SQLite
-
-**Architecture & Systems:** Microfrontends (Native Module Federation) · REST APIs · gRPC & Protocol Buffers · Event-Driven Architecture · Apache Kafka
-
-**DevOps & Tooling:** Docker · Git · GitHub Actions · Linux · macOS · Nginx · Postman · Grafana · Prometheus
-
-**Autonomous AI & Workflow Automation:** Multi-agent orchestration · n8n pipelines · Multi-node compute routing · MCP · Knowledge graphs · Prompt & harness engineering
 
 <br/>
 
