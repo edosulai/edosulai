@@ -55,5 +55,5 @@ Engineering    → Prompt engineering, context paging, harness engineering
 <br/>
 
 <div align="center">
-  <sub>Full-Stack Engineer · Autonomous AI Systems · Jakarta, Indonesia</sub>
+  <sub>Full-Stack Engineer · Autonomous AI Systems</sub>
 </div>
