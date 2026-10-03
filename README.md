@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Edo Sulaiman
+  # Edo Sulai
 
   <a href="https://edosulai.com">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full-Stack+Engineer+%C2%B7+Go+%C2%B7+React+%C2%B7+Android;Production+systems%2C+then+the+agent+stack;Autonomous+AI+Systems+%26+Automation+Pipelines;Building+toward+an+Autonomous+One-Person+Company" alt="Typing SVG" />
@@ -13,18 +13,6 @@
   [![Email](https://img.shields.io/badge/edosulai@icloud.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:edosulai@icloud.com)
 
 </div>
-
-<br/>
-
-Full-stack engineer. I build production systems, then the agent stack that runs them.
-
-Most of the production work stays in private repos. This profile is the public slice: the tools, and the systems I can show.
-
-On the AI side I run a self-hosted multi-agent stack: n8n pipelines, multi-node compute routing, and worker daemons, wired through MCP and a knowledge graph. The engineering around that is prompt design, context paging, and harnesses. Day to day the tools are Hermes Agent, Cursor, Claude Code, Codex, Graphify, and OmniRoute.
-
-Goal: a self-operating one-person company by 2027.
-
-> *Full-stack engineering is the foundation. Autonomous orchestration is the leverage.*
 
 <br/>
 
@@ -47,7 +35,7 @@ Engineering    → Prompt engineering, context paging, harness engineering
 
 <div align="center">
 
-![Languages & Platforms](https://skillicons.dev/icons?i=react,nextjs,ts,go,kotlin,py,nodejs,docker,git,github&perline=10)
+![Languages & Platforms](https://skillicons.dev/icons?i=react,nextjs,ts,go,kotlin,swift,py,nodejs,docker,git&perline=10)
 
 ![Data & Infra](https://skillicons.dev/icons?i=tailwind,postgres,redis,kafka,grafana&perline=5)
 
